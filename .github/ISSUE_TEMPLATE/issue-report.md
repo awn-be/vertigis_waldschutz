@@ -25,3 +25,6 @@ Falls vorhanden
 
 **Weitere Hinweise**
 Weiterer Kontext, der hilft das Problem zu beschreiben/lösen.
+
+**Gemeldet von**
+Wer hat den Fehler/Verbesserungswunsch gemeldet?
